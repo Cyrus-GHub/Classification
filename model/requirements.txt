@@ -1,0 +1,5 @@
+numpy
+matplotlib
+seaborn==0.8.1
+opencv-python==3.4.10.37
+PyWaveletes==0.52
